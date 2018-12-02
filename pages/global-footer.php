@@ -4,7 +4,7 @@
 	  <div id="bottomarea">
 	    <p>
 	      <a href="http://www.insanefactory.com/if-svnadmin/?pk_campaign=iFSVNAdmin-Footer" target="_blank">iF.SVNAdmin <?php AppVersion(); ?></a> -
-	      &copy; 2009-2012 <a href="http://www.insanefactory.com/?pk_campaign=iFSVNAdmin-Footer" target="_blank">insaneFactory.com</a> & 2018 <a href="http://blog.ruanwenzhan.com" target="_blank">ruanwenzhan.com</a>
+	      &copy; 2009-2012 <a href="http://www.insanefactory.com/?pk_campaign=iFSVNAdmin-Footer" target="_blank">insaneFactory.com</a> & 2018 <a href="https://github.com/wuguangping/svnAdmin" target="_blank">wuguangping</a>
 	    </p>
 	  </div>
 

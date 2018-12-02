@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>iF.SVNAdmin | <?php PrintApplicationVersion(); ?></title>
+	<title>SVNAdmin | <?php PrintApplicationVersion(); ?></title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta name="Author" content="Manuel Freiholz, insaneFactory.com">
 	<link rel="stylesheet" type="text/css" href="templates/ifappstyle.css">
@@ -15,7 +15,7 @@
 
 		<div id="header">
 			<img src="templates/images/logo.png" width="24" height="40" border="0">
-			<h1><a href="index.php">iF.SVNAdmin</a></h1>
+			<h1><a href="index.php">SVNAdmin</a></h1>
 
 			<?php if(IsUserLoggedIn()){ ?>
 			<div id="loggedin">
